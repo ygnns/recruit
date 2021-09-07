@@ -1,3 +1,3 @@
 ## hello
 
-![](https://github.com/ygnns/recruit/blob/main/image/CUP2022Recruit.svg)
+![image](https://github.com/ygnns/recruit/blob/main/image/CUP2022Recruit.png)
