@@ -4,11 +4,13 @@
 
 ---
 
-![image](https://join.unionpay.com/wt/unionpayhr/web/index/webPositionN300!showColumnPic?showPicId=100701)
+![](https://join.unionpay.com/wt/unionpayhr/web/index/webPositionN300!showColumnPic?showPicId=100701)
 
 作为一名在中国银联工作多年的开发员工，与你一起看一下今年的招聘职位。
 希望从粗略的招聘信息中得到真正适合你的职位，也避免一些坑点。
 如投递简历时时，麻烦填写本人内推码：**01363236**。
+
+**简历投递时间：9月3日 - 10月7日**
 
 了解具体职位信息，可访问本次的校园招聘官方网址：**[join.unionpay.com](join.unionpay.com)**
 
@@ -20,6 +22,7 @@
 
 具体的思维导图链接：[中国银联2022年校招思维导图](http://naotu.baidu.com/file/5757e01fee18746f14ec7bf1ad3c5e39?token=3bc0ac6ecc926857)
 *（可能需要登录百度账户才可查看）*
+
 
 
 今年的职位分为了上图几大类。下面是我在2021年和2020年制作的职位图，供大家参考比对。
@@ -34,12 +37,22 @@
 
 通过对比可以看出来本次招聘是从大类进行的招聘，具体的分配去向较往年是比较难预知的。
 
-### 2 职位信息
+### 2 招聘流程
+本次招聘流程如下：
+1. 简历投递（9月3日 - 10月7日）
+2. 笔试及心理测评
+3. 面试
+4. 背景调查
+5. 体检
+6. 签约
+
+
+### 3 职位信息
 下面对所有职位进行了个人角度上的简略分析，希望能给大家带来一些有用的信息。有的职位是比较具体的，可以对应到部门的，也在表格中进行了说明，供大家参考。
 
 <table>
     <tr>
-        <td><b>类别</b></td>
+        <td><b><font size="">类别</font></b></td>
         <td><b>职位</b></td>
         <td><b>说明</b></td>
     </tr> 
@@ -119,13 +132,13 @@
 
 > **所有的职位描述前几项都是基础的要求，最后一项描述才是该职位核心的要求,也是应聘者判断该职位是否适合自己的一个重要参考点。**
 
-### 3 薪资信息
+### 4 薪资信息
 可以通过"offershow"微信小程序进行查询，可信度较高。公众号二维码如下。
 <div align=center>
   <img src="https://mmbiz.qpic.cn/mmbiz_jpg/cicp5CqKvAuKibwhCPictkFWILkEQJuibotJmJopqZeOjvlPX4yLTagjyNtX9UAXq9ficW0f8oib6mnMh8xSb0iaQztmw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" width="250" height="250"/>  
 </div>
 
-### 4 工作地点
+### 5 工作地点
 <div align=center>
   <img src="https://i.bmp.ovh/imgs/2021/09/1dca3265ee1fc619.png" width="800" height="400"/>  
 </div>
@@ -143,7 +156,7 @@
 > [3] 陆家嘴世纪金融广场，上海市浦东新区杨高南路759号
 > 市场、创新等职位的办公地点
 
-### 5 内推码：01363236
+### 6 内推码：01363236
 
 以上是根据自己的一些想法进行的总结。如果觉得有所收获，请投递简历时，填写内推码：**01363236**。
 有其他问题也可以留言提问。
